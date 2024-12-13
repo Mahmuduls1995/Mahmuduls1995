@@ -1,21 +1,21 @@
 <img src="https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/banner.jpg"/>
 
 <h1 align="center">Hi 👋, I'm Sheikh Mahmudul Hasan</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh,I am an enthusiastic developer who like to explore new technologies in order to keep a pace with the competitive world.</h3>
+<h3 align="center">A passionate Manual and Automation Software Tester from Bangladesh,I am an enthusiastic developer who like to explore new technologies in order to keep a pace with the competitive world.</h3>
 
 <img  align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmuduls1995&label=Profile%20views&color=0e75b6&style=flat" alt="mahmuduls1995" /> </p>
 
-- 🌱 I’m currently learning **Next. Js, React Native**
+- 🌱 I’m currently learning **Java, Automation Testing**
 
-- 👨‍💻 All of my projects are available at [https://protfolio-mahmuduls1995.vercel.app/](https://protfolio-mahmuduls1995.vercel.app/)
-
-- 💬 Ask me about **React, JavaScript ,Tailwind**
+- 👨‍💻 All of my projects are available on my github
+  
+- 💬 Ask me about **Manual Testing, API Testing , Performance Testing,JavaScript**
 
 - 📫 How to reach me **mahmuduls451@gmail.com**
 
-- ⚡ Fun fact **I Love to Read Book, and Programming.**
+- ⚡ Fun fact **I Love to Read Book and Programming.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
